@@ -51,7 +51,7 @@ public class Calculadora {
             return false;
         }
     }
-    
+    //
     public Integer divide2() {
         if(num2 == 0) {
             return null;
